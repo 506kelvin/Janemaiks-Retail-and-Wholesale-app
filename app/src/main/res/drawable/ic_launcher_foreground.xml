@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Storefront center icon in the 66dp safe zone (coordinates around 21 to 87) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M26,30 h56 v8 h-56 z M30,42 h48 v32 h-48 z M38,48 h10 v12 h-10 z M60,48 h10 v12 h-10 z" />
+</vector>
